@@ -7,7 +7,13 @@ An Excel workbook containing a 90,000-row dataset of AI/ML job postings across 1
 
 ## File
 
-`project_.xlsx`
+`https://github.com/imrohitm25-maker/AI-Technology-Job-Market-Analysis/blob/main/project_com.xlsx`
+
+## Dashboard
+
+
+
+ [View Dashboard](https://github.com/imrohitm25-maker/AI-Technology-Job-Market-Analysis/blob/main/Screenshot%202026-07-09%20135738.png) 
 
 ## Sheets
 
